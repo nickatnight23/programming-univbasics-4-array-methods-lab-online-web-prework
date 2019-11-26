@@ -18,7 +18,7 @@ array.first("wow")
 end
 
 def using_last(array)
-
+array.last("arrays!")
 end
 
 def using_size(array)
